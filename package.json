@@ -1,0 +1,23 @@
+{
+  "name": "limber-mongodb",
+  "version": "0.0.1",
+  "description": "A MongoDB connector for Express server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/workwithizzi/limber-mongodb.git"
+  },
+  "keywords": [
+    "MongoDB",
+    "Express"
+  ],
+  "author": "Ivan Tsud <ivan@workwithizzi.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/workwithizzi/limber-mongodb/issues"
+  },
+  "homepage": "https://github.com/workwithizzi/limber-mongodb#readme"
+}
